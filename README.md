@@ -37,6 +37,12 @@ The original learning archive contained many small repositories, lesson cards an
 4. Автоматизация Linux, SSH, контейнеры и CI.
 5. Один небольшой итоговый проект, объединяющий четыре направления.
 
+## Integrated capstone / Общий практический кейс
+
+[**Fictional Reporting Service — cross-track lab**](docs/capstone-synthetic-reporting-project.md) connects Git versioning, Windows/Linux scripts, Python processing, data checks, optional API/web testing and presentation review. It is an original **learning specification**, not a deployed application.
+
+[**Учебный проект «Синтетическая отчётность»**](docs/capstone-synthetic-reporting-project.md) связывает все направления на одном безопасном практическом сценарии.
+
 ## Capstone / Итоговый проект
 
 Build a neutral daily-efficiency tracker: Python scoring core, API tests, a small web flow, automated checks and documented deployment. Use synthetic data only.
@@ -50,6 +56,7 @@ Build a neutral daily-efficiency tracker: Python scoring core, API tests, a smal
 - Official sources for current practices.
 - No employer, customer, account, credential or private-course data.
 - Historical repositories remain available until consolidation is verified.
+- Legacy code, screenshots and configurations require a separate disclosure/security audit; do not assume archived files are sanitized just because new documentation is safe.
 
 ---
 
@@ -58,3 +65,4 @@ Build a neutral daily-efficiency tracker: Python scoring core, API tests, a smal
 - Официальные источники для актуальных практик.
 - Никаких данных работодателя, клиентов, аккаунтов, credentials или приватных курсов.
 - Исторические репозитории сохраняются до завершения проверки консолидации.
+- Старые файлы кода, конфигурации и изображения требуют отдельного security/privacy-аудита.
